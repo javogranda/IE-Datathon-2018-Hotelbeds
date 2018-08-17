@@ -8,4 +8,4 @@ I worked alongside an amazing team and after running an EDA and feature engineer
 
 <h2>Solution Architecture Overview</h2>
 
-<img src="https://drive.google.com/file/d/13rmzzRmktf9q-bnYUR06MhmJV3eh82tW/view?usp=sharing">
+![alt text](https://drive.google.com/file/d/13rmzzRmktf9q-bnYUR06MhmJV3eh82tW/view?usp=sharing)
