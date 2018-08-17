@@ -4,4 +4,4 @@ Final Datathon for the Masters in Big Data and Business Analytics. The goal was 
 
 I worked alongside an amazing team and after running an EDA and feature engineering process on the data we developed a hybrid and assembled approach. Using rule-based, machine learning (one-class SVM, isolation forests, KNN regressor) and deep learning (recurrent neural nets) techniques we were able to accurately detect anomalies with an accuracy of 65.75%.
 
-<h1><a href="https://github.com/javogranda/IE-Datathon-2018 Hotelbeds/blob/master/Hotel_Prices_Anomaly_Detection_Group_G.ipynb">Python Notebook</a></h1>
+<h2>Solution is explained in this <a href="https://github.com/javogranda/IE-Datathon-2018 Hotelbeds/blob/master/Hotel_Prices_Anomaly_Detection_Group_G.ipynb">Python Notebook</a></h2>
