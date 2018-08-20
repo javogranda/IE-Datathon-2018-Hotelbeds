@@ -8,4 +8,4 @@ I worked alongside an amazing team and after running an EDA and feature engineer
 
 <h2>Solution Architecture Overview</h2>
 
-![Solution Architecture Overview](https://lh5.googleusercontent.com/zCm_98Tzfl_M9aX7RkwcOK1ece7ZmJQkAghadt4Dou0tDSdzhelTnqE4bOfmLiEuWHwGYvo_Q0m-XA=w2880-h1560-rw)
+![Solution Architecture Overview](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
