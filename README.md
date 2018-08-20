@@ -8,4 +8,4 @@ I worked alongside an amazing team and after running an EDA and feature engineer
 
 <h2>Solution Architecture Overview</h2>
 
-![Solution Architecture Overview](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/javogranda/IE-Datathon-2018-Hotelbeds/blob/master/data/architecure.png?raw=true)
